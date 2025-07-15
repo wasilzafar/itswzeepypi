@@ -2,6 +2,7 @@
  
 - Create the package
 - Publish to PyPI
+- Include MANIFEST.in
 
 ### Install latest package using pip:
 
